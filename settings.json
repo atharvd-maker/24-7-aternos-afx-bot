@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Elizaaa",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "hi cutieee",
-        "nice to meet you!",
-        "hehe"
+        "hi cutiee",
+        "Nice to meet you!",
+        "hehehehe"
       ]
     },
     "chat-log": true,
